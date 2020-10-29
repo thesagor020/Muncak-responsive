@@ -1,0 +1,357 @@
+
+  
+ /* 
+    ##Device = Most of the Smartphones Mobiles (Portrait)
+    ##Screen = B/w 320px to 479px
+  */
+  
+  @media (min-width: 320px) and (max-width: 480px) {
+    .header-section nav ul li a {
+      font-size: 15px;
+      color: #1c2056!important;
+      margin: 0px 0px;
+    }
+    .header-section {
+      padding: 10px 0px 20px;
+    }
+    .header-section .banner-inner {
+      padding: 0px;
+    }
+    .header-section .banner-inner h1 {
+          font-size: 32px;
+          line-height: 40px;
+          padding-top: 30px;
+    }
+    .header-section .banner-inner p {
+          font-size: 20px;
+          line-height: 35px;
+          margin-top: 10px;
+          margin-bottom: 20px;
+    }
+    .envision-section .title h2 {
+      font-size: 22px;
+      line-height: 30px;
+      margin: 20px 0px 0px;
+    }
+    .envision-section .card-section {
+      margin-top: 0px;
+      margin-bottom: 50px;
+    }
+    .envision-section .card-section .card-text {
+      font-size: 14px;
+      line-height: 25px;
+    }
+    .envision-section .card-section .card-body {
+      padding: 20px 50px 20px;
+    }
+    .btn-b {
+      margin-top: 50px;
+    }
+    .envision-section .counter-section .title {
+      margin-bottom: 30px;
+    }
+    .count {
+      margin-bottom: 49px;
+    }
+    .envision-section .counter-section {
+      padding-bottom: 30px;
+    }
+    .service .title h1 {
+      font-size: 32px;
+      line-height: 41px;
+    }
+    .service .title {
+      padding-bottom: 25px;
+    }
+    .service .card-body h3 {
+      font-size: 20px;
+      line-height: 32px;
+      padding-top: 0px;
+    }
+    .service .card-body p {
+        font-size: 14px;
+        padding: 0px 0px;
+    }
+    .service .card {
+        margin-bottom: 30px;
+    }
+    .service {
+      padding-bottom: 0px;
+    }
+    .footer-section .title h1 {
+      font-size: 24px;
+      padding-bottom: 20px;
+    }
+    .footer-section form input {
+      width: 100%;
+      padding-left: 10px;
+    }
+    .footer-section .btn-info {
+      padding: 10px 35px;
+    }
+    .footer-section .footer-widget {
+      padding: 60px 0px 0px;
+   }
+   .footer-widget .contact-us h2 {
+    font-size: 18px;
+    padding-bottom: 15px;
+   }
+   .footer-widget .contact-us p {
+    font-size: 11px;
+    line-height: 22px;
+  }
+  .footer-widget .about-us h2 {
+    padding-bottom: 18px;
+  }
+  .footer-widget .about-us ul li a {
+    font-size: 11px;
+  }
+  .footer-widget .support h2 {
+    padding-bottom: 22px;
+  }
+  .footer-widget .hiking h2 {
+  padding-bottom: 10px;
+  }
+  .social-icons {
+    padding-top: 30px;
+    text-align: center;
+  }
+
+    
+
+  
+  
+
+    
+  } 
+  /* 
+    ##Device = Low Resolution Tablets, Mobiles (Landscape)
+    ##Screen = B/w 481px to 767px
+  */
+  
+  @media (min-width: 481px) and (max-width: 767px) {
+    .header-section nav ul li a {
+      color: #1c2056 !important;
+    }
+    .header-section {
+        padding: 15px 0px 0px;
+    }
+    .header-section .banner-inner h1 {
+        font-size: 27px;
+        line-height: 43px;
+        padding-top: 40px;
+    }
+    .header-section .banner-inner {
+        padding: 0px 0px;
+    }
+    .header-section .banner-inner p {
+        font-size: 15px;
+        line-height: 30px;
+        margin-top: 0px;
+        margin-bottom: 20px;
+    }
+    .envision-section .title h2 {
+        font-size: 25px;
+        line-height: 35px;
+        margin: 35px 0px 0px;
+    }
+    .envision-section .card-section {
+        margin-top: 0px;
+    }
+    .envision-section .card-section .card-text {
+        font-size: 14px;
+        line-height: 27px;
+    }
+    .envision-section .title h2 {
+        font-size: 28px;
+        line-height: 35px;
+        margin: 54px 0px 40px;
+    }
+    .envision-section .counter-section {
+        padding-bottom: 10px;
+    }
+    .envision-section .btn-b .btn-info {
+      left: 33%;
+    }
+    .count {
+      margin-bottom: 30px;
+    }
+    .btn-b {
+      margin: 50px 0px;
+    }
+    .service .title {
+        padding-bottom: 20px;
+    }
+    .service .title h1 {
+        font-size: 28px;
+        line-height: 38px;
+    }
+    .card-body {
+        text-align: center;
+    }
+    .service .card {
+        margin-bottom: 40px;
+    }
+    .service {
+        padding-bottom: 20px;
+    }
+    .footer-section .title h1 {
+        font-size: 28px;
+        padding-bottom: 25px;
+    }
+    .footer-section {
+        padding: 40px 0px;
+    }
+    .footer-section form input {
+        width: 100%;
+    }
+    .footer-section .footer-widget {
+        padding: 70px 0px 0px;
+    }
+    .footer-widget .contact-us h2 {
+        padding-bottom: 15px;
+        font-size: 15px;
+    }
+    .footer-widget .about-us h2 {
+        padding-bottom: 15px;
+    }
+    .footer-widget .about-us h2 {
+        font-size: 15px;
+        padding-bottom: 15px;
+    }
+    .footer-widget .support h2 {
+        font-size: 15px;
+        padding-bottom: 15px;
+    }
+    .footer-widget .hiking h2 {
+        font-size: 15px;
+        padding-bottom: 15px;
+    }
+    .social-icons {
+        text-align: center;
+    }
+
+
+      
+  }
+    /* 
+
+    ##Device = Tablets, Ipads (portrait)
+    ##Screen = B/w 768px to 1024px
+    
+    */
+  
+  @media (min-width: 768px) and (max-width: 1024px) {
+    .header-section nav ul li a {
+      color: #1c2056 !important;
+      margin: 0px;
+    }
+    .header-section .form-inline .btn-info:hover {
+      color: #ffffff;
+      background: #1c2056;
+    }
+    .header-section {
+        padding: 15px 0px 0px;
+    }
+    .header-section .banner-inner {
+      padding: 20px 0px;
+    }
+    .header-section .banner-inner h1 {
+        font-size: 36px;
+        line-height: 46px;
+        padding-top: 50px;
+    }
+    .header-section .banner-inner p {
+        font-size: 13px;
+        line-height: 28px;
+        margin-top: 15px;
+        margin-bottom: 48px;
+    }
+    .envision-section .title h2 {
+        font-size: 36px;
+        line-height: 46px;
+        margin: 25px 0px 0px;
+    }
+    .envision-section .card-section {
+        margin-top: 0px;
+    }
+    .envision-section .card-section .card-text {
+      font-size: 14px;
+      line-height: 28px;
+    }
+    .envision-section .card-section .card-body {
+      padding: 20px 50px 20px;
+    }
+    .envision-section .title h2 {
+      font-size: 25px;
+      line-height: 35px;
+      margin: 25px 0px 35px;
+    }
+    .envision-section .counter-section .count h4 {
+      font-size: 15px;
+    }
+    .envision-section .counter-section .count h1 {
+      color: #1a56a3;
+      font-size: 30px;
+      font-weight: 700;
+    }
+    .counter-section h5 {
+      font-size: 17px;
+    }
+    .service {
+      padding-bottom: 20px;
+    }
+    .envision-section .counter-section {
+      padding-bottom: 30px;
+    }
+    .service .title h1 {
+      font-size: 32px;
+      line-height: 42px;
+    }
+    .service .card-body h3 {
+      font-size: 15px;
+      line-height: 25px;
+    }
+    .service .card-body p {
+      font-size: 16px;
+      line-height: 28px;
+    }
+    .footer-section .title h1 {
+      font-size: 27px;
+      padding-bottom: 20px;
+    }
+    .footer-section {
+      padding: 45px 0px;
+    }
+    .footer-section form input {
+      width: 80%;
+    }
+    .footer-section .footer-widget {
+      padding: 70px 0px 0px;
+    }
+    .footer-widget .about-us h2 {
+      font-size: 13px;
+      padding-bottom: 25px;
+    }
+    .footer-widget .support h2 {
+      font-size: 13px;
+      padding-bottom: 25px;
+    }
+    .footer-widget .hiking h2 {
+      font-size: 13px;
+      padding-bottom: 9px;
+    }
+    .footer-widget .contact-us h2 {
+      font-size: 14px;
+      padding-bottom: 25px;
+    }
+    .footer-widget .contact-us p {
+      line-height: 23px;
+    }
+    .social-icons {
+      text-align: center;
+  }
+
+}
+
+ 
